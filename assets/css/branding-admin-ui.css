@@ -1,0 +1,170 @@
+.branding-display-container {
+    border-style: solid;
+    border-color: #F05A1A;
+    border-width: 1px;
+    padding: 10px;
+    width: 70%;
+    border-radius: 10px;
+    margin: 25px;
+    background-color: white;
+    box-shadow: 10px 10px 10px #F05A1A;
+}
+
+.branding-display-top-title {
+    text-align: center;
+    border-top: 0px;
+    border-right: 0px;
+    border-left: 0px;
+    border-bottom: 1px;
+    border-style: solid;
+    width: 100%;
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 18px;
+    text-align: center;
+}
+
+.branding-display-title-icon {
+    width: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.branding-display-container {
+    border-style: solid;
+    border-color: #F05A1A;
+    border-width: 1px;
+    padding: 10px;
+    width: 70%;
+    border-radius: 10px;
+    margin: 25px;
+    background-color: white;
+    box-shadow: 10px 10px 10px #F05A1A;
+}
+
+#branding-display-advert-visit-me-title {
+    font-variant: small-caps;
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+#branding-display-advert-site-div img {
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#branding-display-advert-site-div {
+    text-align: center;
+    font-variant: small-caps;
+}
+
+#branding-display-advert-visit-me-link {
+    text-decoration: none;
+    font-size: 20px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+#branding-display-advert-email-me {
+    text-align: center;
+    margin-left: auto;
+    width: 70%;
+    margin-right: auto;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#branding-display-advert-money-container {
+    text-align: center;
+}
+
+#branding-display-advert-money-container form {
+    display: inline-block;
+}
+
+#branding-patreon-img {
+    width: 100px;
+}
+
+#branding-patreon-link {
+    display: inline-block;
+    margin: 10px;
+}
+
+#branding-create-popup-container p{
+    max-width:600px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+
+
+#branding-create-popup-container #wpbooklist-addbook-preview-img, #branding-create-popup-container #wpbooklist-branding-preview-img-1, #branding-create-popup-container #wpbooklist-branding-preview-img-2, #branding-create-popup-container #wpbooklist-editbook-preview-img-2 {
+    width: 50px;
+    position: absolute;
+    top: -5px;
+    right: 155px;
+}
+
+#wpbooklist-admin-branding-save-button{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 45px;
+    margin-bottom: 20px;
+}
+
+#wpbooklist-branding-image-url-2{
+    margin-right: 4px;
+}
+
+#wpbooklist-branding-image-url-1{
+    margin-right: 3px;
+}
+
+.wpbooklist-branding-title{
+    font-weight:bold;
+    margin-top:50px;
+}
+
+.wpbooklist-branding-loading-div{
+    position:relative;
+    text-align:center;
+}
+
+#wpbooklist-branding-input-text-1, #wpbooklist-branding-input-text-2{
+    width: 258px;
+    position: relative;
+    left: 18px;
+}
+
+.wpbooklist-branding-input-label{
+        position: relative;
+    left: 17px;
+}
+
+#branding-create-popup-container #wpbooklist-addbook-upload_image_button, #branding-create-popup-container #wpbooklist-addbook-upload_image_button-2{
+    top:-2px;
+}
+
+.wpbooklist-for-branding{
+    display:none!important;
+    height:0px!important;
+    opacity:0!important;
+}
+
+#wpbooklist-branding-img-1-id{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 20%;
+    margin-top: 20px;
+}
